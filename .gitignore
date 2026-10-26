@@ -1,0 +1,7 @@
+# TD build outputs
+*_Runs/
+log/
+*.bit
+.lock.f
+td_*.log
+td_*.logw
